@@ -1,93 +1,143 @@
-Voici une version en français, simplifiée et plus claire :  
+## Projet E-Commerce 
 
-## Projet E-commerce de Montres  
+**Présenté par** : Zakaria Azizi
 
-**Présenté par** : Zakaria Azizi  
-**Encadré par** : ESSARRAJ Fouad  
+**Encadré par** : ESSARRAJ Fouad
 
----  
-### 1. Introduction  
+|||
+### 1. Introduction : 
 
-<img src="assets/Introduction.avif" alt="Introduction" style="width: 600px; height: auto;" />  
+![Introduction](../assets/img/lms.webp)
 
----  
-### 2. Méthodologie 2TUP  
+|||
+### 2-2TUP Méthodologie :
 
-<img src="assets/2_TUP.png" alt="2TUP" style="width: 600px; height: auto;" />  
+![2TUP](../assets/img/2TUP.png)
 
----  
-### 3. Planning  
+|||
+### 3. Planification :
 
-<table style="font-size: 28px" >
-  <tr>
-    <th></th>
-    <th>Semaine 1</th>
-    <th>Semaine 2</th>
-    <th>Semaine 3</th>
-  </tr>
-  <tr>
-    <td>Lundi</td>
-    <td>Planification</td>
-    <td>Formation personnelle</td>
-    <td>Formation personnelle</td>
-  </tr>
-  <tr>
-    <td>Mardi</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Préparation des slides</td>
-  </tr>
-  <tr>
-    <td>Mercredi</td>
-    <td>Atelier</td>
-    <td>Atelier</td>
-    <td>Branches techniques et fonctionnelles</td>
-  </tr>
-  <tr>
-    <td>Jeudi</td>
-    <td>Prototype</td>
-    <td>Prototype</td>
-    <td>Prototype</td>
-  </tr>
-  <tr>
-    <td>Vendredi</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-    <td>-</td>
-  </tr>
-  <tr>
-    <td>Lundi</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-  </tr>
-  <tr>
-    <td>Mardi</td>
-    <td>-</td>
-    <td>-</td>
-    <td>Réalisation</td>
-  </tr>
-  <tr>
-    <td>Mercredi</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-  </tr>
-  <tr>
-    <td>Jeudi</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-  </tr>
-  <tr>
-    <td>Vendredi</td>
-    <td>Réalisation</td>
-    <td>Réalisation</td>
-    <td>-</td>
-  </tr>
-</table>  
+> #### Semaine 1
+<table style="font-size: 28px; border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid grey; padding: 8px;"></th>
+      <th style="border: 1px solid grey; padding: 8px;">1</th>
+      <th style="border: 1px solid grey; padding: 8px;">2</th>
+      <th style="border: 1px solid grey; padding: 8px;">3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Lundi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Planification</td>
+      <td style="border: 1px solid grey; padding: 8px;">Auto-formation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Auto-formation</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Mardi</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+      <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Mercredi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
+      <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
+      <td style="border: 1px solid grey; padding: 8px;">Cas d'utilisation + Diagramme de classes</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Jeudi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
+      <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
+      <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Vendredi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
+      <td style="border: 1px solid grey; padding: 8px;">Base de données</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+    </tr>
+  </tbody>
+</table>
 
----  
-### 4. Analyse  
+|||
+> #### Semaine 2 
+<table style="font-size: 28px; border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid grey; padding: 8px;"></th>
+      <th style="border: 1px solid grey; padding: 8px;">1</th>
+      <th style="border: 1px solid grey; padding: 8px;">2</th>
+      <th style="border: 1px solid grey; padding: 8px;">3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Lundi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Maquettes</td>
+      <td style="border: 1px solid grey; padding: 8px;">Maquettes</td>
+      <td style="border: 1px solid grey; padding: 8px;">Maquettes</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Mardi</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Mercredi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Jeudi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid grey; padding: 8px;">Vendredi</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">Réalisation</td>
+      <td style="border: 1px solid grey; padding: 8px;">-</td>
+    </tr>
+  </tbody>
+</table>
 
-<img src="assets/Analyse.svg" alt="Analyse
+|||
+### 4. Analyse :
+
+![Analyse](assets/Analyse.svg)
+
+|||
+### 5. Design :
+
+![Design](assets/Design.svg)
+
+|||
+### 6. Apprentissage :
+
+- Blade
+- Controller
+- Model
+- Repository
+- Ajax
+
+|||
+### 7. Prototype :
+
+- Voir le produit
+- Ajouter un produit
+- Supprimer un produit
+- Ajax (page unique)
+- Repository
+
+|||
+### 8. Réalisation :
+
+|||
+### 9. Conclusion :
+
+![Conclusion](assets/Conclusion.svg)

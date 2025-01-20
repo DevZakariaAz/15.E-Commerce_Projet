@@ -12,5 +12,5 @@ Bienvenue sur le rapport du projet. Ce document est une présentation des travau
 
 ## Liens utiles
 
-- [Rapport du projet](./Rapport/index.html)
-- [Présentation du projet](./Presentation/index.html)
+- [Rapport du projet](./rapport/index.md)
+- [Présentation du projet](./presentation/index.html)

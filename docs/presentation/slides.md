@@ -134,6 +134,13 @@
 - Ajax (page unique)
 - Repository
 
+<!-- ### 8. References :
+
+> [medium References](https://medium.com/@imgrasool/typical-design-patterns-for-laravel-application-development-b97f1ee5fd6b)
+
+> [Youtube References](https://www.youtube.com/watch?v=Twu21yltjvo)
+ -->
+
 |||
 ### 8. Réalisation :
 

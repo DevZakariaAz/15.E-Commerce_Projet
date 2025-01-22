@@ -10,8 +10,17 @@
 ![Introduction](../assets/img/lms.webp)
 
 |||
-### 2-2TUP Méthodologie :
+### 2. Methode de travail :
+- 2.1. Scrum
+- 2.2. 2TUP
 
+
+---
+> #### 2.1. Scrum :
+![Scrum](../assets/img/Scrum.png)
+
+---
+> #### 2.2. 2TUP :
 ![2TUP](../assets/img/2TUP.png)
 
 |||
@@ -44,11 +53,11 @@
       <td style="border: 1px solid grey; padding: 8px;">Mercredi</td>
       <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
       <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
-      <td style="border: 1px solid grey; padding: 8px;">Cas d'utilisation + Diagramme de classes</td>
+      <td style="border: 1px solid grey; padding: 8px;">Atelier</td>
     </tr>
     <tr>
       <td style="border: 1px solid grey; padding: 8px;">Jeudi</td>
-      <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
+      <td style="border: 1px solid grey; padding: 8px;">Projet fil rouge</td>
       <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
       <td style="border: 1px solid grey; padding: 8px;">Prototype</td>
     </tr>
@@ -105,6 +114,10 @@
     </tr>
   </tbody>
 </table>
+
+|||
+> #### Diagramme de Gantt : 
+![Gantt](../assets/img/Gantt.png)
 
 |||
 ### 4. Analyse :

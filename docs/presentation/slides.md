@@ -1,36 +1,45 @@
-## Projet E-Commerce 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+        <img src="../assets/img/OFPPT_logo.webp" alt="OFPPT logo" style="width: 250px;border-radius: 10%; height: 150px;">
+        <img src="../assets/img/Solicode_logo.png" alt="Solicode logo" style="width: 250px; height: 150px; border-radius: 10%;">
+</div>
+
+> ## Projet E-Commerce 
 
 **Présenté par** : Zakaria Azizi
 
 **Encadré par** : ESSARRAJ Fouad
 
 |||
-### 1. Introduction : 
+> ### 1. Introduction : 
 
-![Introduction](../assets/img/lms.webp)
+<img src="../assets/img/lms.webp" alt="Introduction" style="width: 800px; height: auto;" />
 
 |||
-### 2. Methode de travail :
+
+> ### 2. Méthode de travail:
+
 - 2.1. Scrum
 - 2.2. 2TUP
 
 
----
-> #### 2.1. Scrum :
-![Scrum](../assets/img/Scrum.png)
+|||
+> #### 2.1. Scrum:
 
----
-> #### 2.2. 2TUP :
-![2TUP](../assets/img/2TUP.png)
+<img src="../assets/img/Scrum.png" alt="Scrum" style="width: 800px; height: auto;" />
 
 |||
-### 3. Planification :
+> #### 2.2. 2TUP:
 
-> #### Semaine 1
+<img src="../assets/img/2TUP.png" alt="2TUP" style="width: 800px; height: auto;" />
+
+|||
+> ### 3. Planification :
+
+#### 3.1. Planification détaillée:
 <table style="font-size: 28px; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th style="border: 1px solid grey; padding: 8px;"></th>
+      <th style="border: 1px solid grey; padding: 8px;">Semaine 1</th>
       <th style="border: 1px solid grey; padding: 8px;">1</th>
       <th style="border: 1px solid grey; padding: 8px;">2</th>
       <th style="border: 1px solid grey; padding: 8px;">3</th>
@@ -71,11 +80,12 @@
 </table>
 
 |||
-> #### Semaine 2 
+
+#### 3.1. Planification détaillée:
 <table style="font-size: 28px; border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th style="border: 1px solid grey; padding: 8px;"></th>
+      <th style="border: 1px solid grey; padding: 8px;">Semaine 2</th>
       <th style="border: 1px solid grey; padding: 8px;">1</th>
       <th style="border: 1px solid grey; padding: 8px;">2</th>
       <th style="border: 1px solid grey; padding: 8px;">3</th>
@@ -116,30 +126,45 @@
 </table>
 
 |||
-> #### Diagramme de Gantt : 
-![Gantt](../assets/img/Gantt.png)
+> #### 3.2. Diagramme de Gantt:
+
+<img src="../assets/img/Diagramme_Gantt.png" alt="Diagramme de Gantt" style="width: 800px; height: auto;" />
 
 |||
-### 4. Analyse :
 
-![Analyse](assets/Analyse.svg)
+> ### 4. Branche technique:
+
+- 4.1. Capture des besoins techniques
+- 4.2. Analyse technique
+- 4.3. Auto-formation
+- 4.4. Conception générique
 
 |||
-### 5. Design :
+#### 4.1. Capture des besoins techniques:
 
-![Design](assets/Design.svg)
+- Tailwind CSS
+- Ajax
+- Laravel
+- MySQL
 
 |||
-### 6. Apprentissage :
 
-- Blade
-- Controller
-- Model
+#### 4.2. Analyse technique:
+
+- Laravel avancé
+- Application onepage (AJAX)
+
+|||
+### 4.3. Apprentissage :
+
+- Blade avancé
+- Controllers avancés
+- Models avancés
 - Repository
 - Ajax
 
 |||
-### 7. Prototype :
+### 4.4. Conception générique :
 
 - Voir le produit
 - Ajouter un produit
@@ -149,9 +174,52 @@
 
 
 |||
-### 8. Réalisation :
+
+> ### 5. Branche fonctionnelle
+
+- 5.1. Diagramme de cas d’utilisation
+- 5.2. Diagramme de cas d’utilisation Sprint 1
+- 5.3. Diagramme de cas d’utilisation Sprint 2
 
 |||
-### 9. Conclusion :
+
+#### 5.1. Diagramme de cas d’utilisation:
+
+<img src="../assets/img/diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
+
+|||
+#### 5.2. Diagramme de cas d’utilisation Sprint 1:
+
+<img src="../assets/img/Sprint_1.svg" alt="Sprint 1" height="500px">
+
+
+|||
+#### 5.3. Diagramme de cas d’utilisation Sprint 2:
+
+<img src="../assets/img/Sprint_2.svg" alt="Sprint 2" height="500px">
+
+
+|||
+> ### 6. Conception:
+
+- 6.1. Diagramme de classe
+- 6.2. Maquette
+
+|||
+#### 6.1. Diagramme de classe:
+
+<img src="../assets/img/Diagramme_de_classe.svg" alt="Diagramme de classe" height="600px">
+
+|||
+
+#### 6.2. Maquette:
+
+<img src="../assets/img/Maquette.svg" alt="Maquette" height="600px">
+
+|||
+> ### 7. Réalisation :
+
+|||
+> ### 9. Conclusion :
 
 ![Conclusion](assets/Conclusion.svg)

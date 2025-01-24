@@ -20,7 +20,7 @@
 
 - 2.1. Scrum
 - 2.2. 2TUP
-
+- 2.3. Ux design
 
 |||
 > #### 2.1. Scrum:
@@ -31,6 +31,11 @@
 > #### 2.2. 2TUP:
 
 <img src="../assets/img/2TUP.png" alt="2TUP" style="width: 800px; height: auto;" />
+
+|||
+> #### 2.3. Design Thinking:
+
+<img src="../assets/img/design_thinking.png" alt="Design Thinking" style="width: 800px; height: auto;" />
 
 |||
 > ### 3. Planification :
@@ -177,24 +182,35 @@
 
 > ### 5. Branche fonctionnelle
 
-- 5.1. Diagramme de cas d’utilisation
-- 5.2. Diagramme de cas d’utilisation Sprint 1
-- 5.3. Diagramme de cas d’utilisation Sprint 2
+- 5.1. Carte d’empathie 
+- 5.2. Definir le probleme
+- 5.3. Diagramme de cas d’utilisation general
+- 5.4. Diagramme de cas d’utilisation Sprint 1
+- 5.5. Diagramme de cas d’utilisation Sprint 2
 
 |||
 
-#### 5.1. Diagramme de cas d’utilisation:
+#### 5.1. Carte d’empathie:
 
-<img src="../assets/img/diagramme_de_cas_d’utilisation.svg" alt="Diagramme de cas d’utilisation" height="500px">
+<img src="../assets/img/carte_empathie.svg" alt="Carte empathie" height="500px">
 
 |||
-#### 5.2. Diagramme de cas d’utilisation Sprint 1:
+#### 5.2. Definir le probleme:
+
+
+
+|||
+#### 5.3. Diagramme de cas d’utilisation general:
+
+<img src="../assets/img/diagram_general.svg" alt="diagram general" height="500px">
+
+|||
+#### 5.4. Diagramme de cas d’utilisation Sprint 1:
 
 <img src="../assets/img/Sprint_1.svg" alt="Sprint 1" height="500px">
 
-
 |||
-#### 5.3. Diagramme de cas d’utilisation Sprint 2:
+#### 5.5. Diagramme de cas d’utilisation Sprint 2:
 
 <img src="../assets/img/Sprint_2.svg" alt="Sprint 2" height="500px">
 

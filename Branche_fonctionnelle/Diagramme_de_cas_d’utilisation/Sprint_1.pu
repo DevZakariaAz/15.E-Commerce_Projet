@@ -1,0 +1,21 @@
+@startuml Watches_ecommerce
+left to right direction
+actor Customer
+actor Admin
+
+usecase "Browse Watches" as UC_Browse
+usecase "Search Watches" as UC_Search
+usecase "Place Order" as UC_Order
+usecase "Leave Review" as UC_Review
+usecase "Manage Products" as UC_ManageProducts
+usecase "Manage Orders" as UC_ManageOrders
+
+Admin --> UC_ManageProducts
+Admin --> UC_ManageOrders
+
+Customer --> UC_Browse
+Customer --> UC_Search
+Customer --> UC_Order
+Customer --> UC_Review
+
+@enduml
